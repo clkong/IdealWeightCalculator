@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Sean Luo 06/04/2018
+ * IdealWeightCalculator.java
+ * This progrem calculates the IdealWeightCalculator
  */
 
 package idealweightcalculator;
